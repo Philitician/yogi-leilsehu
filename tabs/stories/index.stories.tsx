@@ -16,7 +16,7 @@ export default {
 
 export const automatic = () => (
   <>
-    <p>manual</p>
+    <p>manual...</p>
     <Tabs isManual>
       <TabList>
         <Tab>Settings</Tab>
